@@ -1,2 +1,5 @@
-# TofoSwap
- swap of zsc Chain
+# TofuSwap
+
+## License
+
+MIT
